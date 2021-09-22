@@ -2,7 +2,7 @@
 This repo is an example of human detection and tracking in videos. [OpenCV DNN](https://docs.opencv.org/master/d6/d0f/group__dnn.html) is used to run the detector model. 
 
 ## Algorithms 
-- Person Detection: [YOLOv4](https://arxiv.org/abs/2004.10934). Download YOLOv4 weights from [here](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights).
+- Person Detection: [YOLOv4](https://arxiv.org/abs/2004.10934). Download YOLOv4 weights from [here](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) and keep the file at ```models/detector/```
 - Tracking: [DeepSORT](https://github.com/nwojke/deep_sort)
 
 ## Libraries
